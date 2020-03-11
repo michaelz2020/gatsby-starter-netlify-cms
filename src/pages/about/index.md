@@ -3,8 +3,12 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
+
 ##Test to see if I can change the exisintg MD files
+
 This is to see if I should use the command "git fetch"
+This is to see if I can push the code from VS Code.
+
 ### Shade-grown coffee
 
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
