@@ -18,7 +18,7 @@
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.0.26",
     "gatsby-transformer-csv": "^2.1.27",
-    "gatsby-transformer-remark": "^2.6.9",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.9",
     "highcharts": "^8.0.4",
     "highcharts-react-official": "^3.0.0",
